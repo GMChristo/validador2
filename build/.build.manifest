@@ -2,6 +2,7 @@
 .packages
 Leo.jpeg
 favicon.png
+foto.jpeg
 index.html
 logo.jpg
 logo2.jpg
@@ -17,7 +18,6 @@ packages/$sdk/dev_compiler/web/dart_stack_trace_mapper.js
 packages/_fe_analyzer_shared/src/parser/parser.md
 packages/analyzer/src/summary/format.fbs
 packages/angular/src/di/README.md
-packages/app_frontend/foto.jpeg
 packages/app_frontend/logo.png
 packages/build_runner/src/server/README.md
 packages/build_runner/src/server/build_updates_client/hot_reload_client.dart.js
